@@ -1,1 +1,15 @@
 OA
+
+git ini
+
+git add Nom de l'archiu
+
+git commit -m "Documentar els canvis"
+
+git reset --hard id del commit per ejemple 9472f23
+
+git log  --oneline  --> Te diu els archius gurdats
+
+git status -s --> vore tots els archius que estan en la carpeta que se ha especificat el git
+
+git diff nom de l'archiu
