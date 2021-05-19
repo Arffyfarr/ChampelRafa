@@ -13,3 +13,5 @@ git log  --oneline  --> Te diu els archius gurdats
 git status -s --> vore tots els archius que estan en la carpeta que se ha especificat el git
 
 git diff nom de l'archiu
+
+git commit -am "Documentar els canvis" 
