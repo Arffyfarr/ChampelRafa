@@ -15,3 +15,5 @@ git status -s --> vore tots els archius que estan en la carpeta que se ha especi
 git diff nom de l'archiu
 
 git commit -am "Documentar els canvis" 
+
+git commit -amend
