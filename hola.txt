@@ -17,3 +17,13 @@ git diff nom de l'archiu
 git commit -am "Documentar els canvis" 
 
 git commit -amend
+
+git clone (URL)
+
+git branch (nom de la rama) --> Crea la branca
+
+git log --oneline -->  Archius i branques
+
+git branch --> Veus les rames del projecte
+
+git checkout (nom de la branca) --> Canvia de rama
